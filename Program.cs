@@ -30,8 +30,8 @@ namespace Hangman
 
             string randomWord = wordList[index];
 
-            //just for now to see what the word is
-            Console.WriteLine("The chosen word is " + randomWord);
+            //test to see what the word is
+            //Console.WriteLine("The chosen word is " + randomWord);
 
             int falseGuessCount = 0;
 
